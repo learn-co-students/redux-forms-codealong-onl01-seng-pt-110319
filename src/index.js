@@ -1,3 +1,5 @@
+// ./src/index.js
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
@@ -6,6 +8,7 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 
 let store = createStore(manageTodo);
+
 
 ReactDOM.render(
   <Provider store={store}>
