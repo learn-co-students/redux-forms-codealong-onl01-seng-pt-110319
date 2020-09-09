@@ -12,7 +12,7 @@ By the end of this lesson, you will be able to:
 - Take user input from our **React** application and send information to **Redux**
 
 ## Our Goal
-
+ s
 We'll build a form in **Redux** that allows us to create a list of todos. So
 this is a form that would have only one input, for the name of the todo, and the
 submit button.
